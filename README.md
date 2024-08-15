@@ -23,7 +23,9 @@ Express: For building RESTful APIs to manage book listings, orders, and user aut
 Installation and Setup :-
 
 1.git clone https://github.com/your-username/Book-Worm_byMukul.git
-2.for backend :- hit command npm i then node index.js
-3.for frontend :- hit command npm i then npm start
+
+2.Redirect to the backend folder and run "npm i" then run "node index.js"
+
+3.After DB connection, redirect to the frontend folder and run "npm i" then run "npm start"
 
 
