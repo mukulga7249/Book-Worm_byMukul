@@ -22,7 +22,7 @@ Express: For building RESTful APIs to manage book listings, orders, and user aut
 
 Installation and Setup :-
 
-1.git clone https://github.com/your-username/Book-Worm_byMukul.git
+1.git clone https://github.com/mukulga7249/Book-Worm_byMukul.git
 
 2.Redirect to the backend folder and run "npm i" then run "node index.js"
 
