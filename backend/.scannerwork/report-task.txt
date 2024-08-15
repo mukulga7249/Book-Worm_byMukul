@@ -1,0 +1,6 @@
+projectKey=Book_Worm_G2
+serverUrl=http://172.27.12.78:8000
+serverVersion=7.9.6.41879
+dashboardUrl=http://172.27.12.78:8000/dashboard?id=Book_Worm_G2
+ceTaskId=AY4tz_pK02ASefZCyh8h
+ceTaskUrl=http://172.27.12.78:8000/api/ce/task?id=AY4tz_pK02ASefZCyh8h

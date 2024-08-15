@@ -1,0 +1,33 @@
+.widget {
+  display: flex;
+  justify-content: space-between;
+  flex: 1;
+  padding: 10px;
+  box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+  border-radius: 10px;
+  height: 100px;
+  border: 2px solid #243b55;
+
+}
+.widget .center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin: auto;
+}
+
+.title-widget{
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.counter{
+  color: white;
+  margin: auto;
+  font-size: 25px;
+}
+
+.center{
+  justify-content: center;
+}

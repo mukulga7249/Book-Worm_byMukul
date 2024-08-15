@@ -1,0 +1,69 @@
+
+.book-card-seller {
+    transition: transform 0.3s ease;
+    border-radius: 20px;
+    object-fit: cover;
+    box-shadow: 0 0 20px rgb(22, 20, 20);
+  }
+  
+  .book-card-seller:hover {
+    transform: scale(1.05); 
+  }
+
+  .book-image-seller{
+    border-bottom: 2px solid gray;
+    height: 300px;
+    object-fit: cover;
+    object-position: top;
+    
+    
+}
+
+.book-content-seller{
+    /* height: 100px */
+    height: 100px;
+    justify-content: center;
+}
+
+.book-title-seller{
+    /* height: 50px; */
+    height:30px;
+    text-overflow: clip;
+    font-size: 18px;
+    text-align: center;
+}
+.approved-listing{
+    color: green;
+    font-size: 15px;
+   
+}
+.pending-for-approval{
+    color: rgb(233, 162, 56);
+    font-size: 15px;
+ 
+}
+
+.action-buttons-seller{
+    justify-content: center;
+   
+}
+
+.book-publish-seller{
+    font-size: 15px;
+}
+
+.no-book-listed{
+   
+    color: white;
+    align-items: center;
+    width: 70%;
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    /* margin-top: 20% */
+}
+
+.no-book-listed span{
+    font-size: 40px
+}

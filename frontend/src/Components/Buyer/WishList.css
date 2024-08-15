@@ -1,0 +1,19 @@
+.wishlist-title{
+    text-align: center;
+  ;
+    margin: auto;
+    font-size:20px ;
+}
+
+.wishlist-section {
+  
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    color: white;
+    box-shadow: 0 0 20px rgb(22, 20, 20);
+    width: 20%;
+    margin: auto;
+    background: linear-gradient(#141e30, #243b55);
+    
+}

@@ -1,0 +1,57 @@
+.main-table-container{
+    margin: auto;
+    width: 90%;
+   
+}
+
+.Table-title{
+    margin-top: 30px;
+    justify-content: center;
+    color: white;
+ 
+}
+
+.Table-container{
+    margin: auto;
+    padding: 30px;
+    border: 2px solid black;
+    /* margin-right: 5px; */
+}
+
+.Table-head{
+    border: 2px solid #243b55;
+    font-weight: bold;
+    text-decoration: underline;
+    background-color: #243b55;
+    color:white
+ 
+}
+
+.Table-head-inner{
+    color:white
+}
+.block-button{
+    color: red;
+}
+
+.empty-approval{
+    justify-self: center;
+    align-self: center;
+    text-decoration: underline;
+    text-align: center;
+    color: white;
+    
+}
+
+
+.actions{
+    display: flex; 
+    align-items: center;
+
+}
+
+.table-pagination{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

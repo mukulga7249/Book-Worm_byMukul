@@ -1,0 +1,95 @@
+
+   .navbar-buyer{
+    height: 30px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content:center;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.49);
+    /* border-radius: 30px; */
+    background-color: #141e30;
+    position: static;
+  }
+
+  .buyer-logo{
+    height: 60px;
+    width: 150px;
+    margin-left: 25px;
+  }
+
+  .search-container{
+   display:flex;
+   align-items: center;
+   align-self: center;
+  }
+
+  .nav-item{
+    padding: 5px;
+    
+    
+  }
+
+  .buyer-options{
+   
+    /* margin-right: 10px;
+    margin-left: 600px; */
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+    /* width: 300px; */
+    font-size: 15px;
+    font-weight: bold;
+    color: white;
+    padding: 35px;
+    
+
+  }
+
+  .buyer-search{
+    margin: auto;
+    align-self: center;
+  }
+  
+  .logo {
+    margin-right: auto; 
+  }
+  
+
+  @media screen and (max-width: 768px) {
+    .navbar-buyer {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  
+  
+    .items {
+      margin-top: 10px;
+      
+      
+    }
+  }
+
+  .buyer-options a:hover svg {
+    color: #7590c4; /* Change color to red on hover */
+  }
+  
+
+  .header-icon {
+    text-decoration: none;
+    color: white;
+    margin-right: 1rem; /* Adjust margin as needed */
+  }
+  
+  .header-icon.active {
+    color: #ff0000; /* Change to your desired color */
+  }
+  
+
+  /* .logout-confirmation, .logout-cancel{
+
+    border: 2px solid black;
+    border-radius: 15px;
+    gap: 4px;
+   
+
+  } */
+  

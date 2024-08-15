@@ -1,0 +1,22 @@
+.Footer-buyer{
+    margin-top: 100%;
+    /* margin-bottom: 0px; */
+    display: flex;
+    flex-direction: row;
+    color: rgb(255, 255, 255);
+    font-weight: lighter;
+    font-size: 13px;
+    gap: 30px;
+    background-color:#141e30;
+    height: auto;
+}
+
+.about-us{
+    width: 100%;
+    margin-left: 5px;
+}
+
+.contact-us{
+    width: 40%
+}
+

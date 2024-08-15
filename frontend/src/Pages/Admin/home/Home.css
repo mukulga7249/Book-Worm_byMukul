@@ -1,0 +1,41 @@
+.home {
+  display: flex;
+}
+
+.home .homeContainer {
+  flex: 6;
+  background: linear-gradient(#141e30, #243b55);
+}
+.home .homeContainer .widgets {
+  display: flex;
+  padding: 20px;
+  gap: 20px;
+}
+
+.home .homeContainer .listContainer {
+  box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+  padding: 20px;
+  margin: 20px;
+}
+.home .homeContainer .listContainer .listTitle {
+  font-weight: 500;
+  color: gray;
+  margin-bottom: 15px;
+}/*# sourceMappingURL=Home.css.map */
+
+.chart{
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+
+
+}
+
+.chart-content{
+  width: 50%;
+}
+
+.chart-content h4{
+  text-align: center;
+  color: white;
+}

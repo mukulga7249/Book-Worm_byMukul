@@ -1,0 +1,41 @@
+.order-summary-page{
+    background: #243b55;
+    height: 100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between
+}
+
+.summary-box{
+    border-color: 2px solid red;
+    background-color: white;
+    width: 70%;
+    margin: auto;
+    border-radius: 10px;
+}
+
+.container-order-summary{
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    border-radius: 15px;
+}
+
+.left-box{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: auto
+}
+
+.right-box{
+    width: 80%;
+    margin: auto
+}
+
+.order-summary-table{
+    border: 1px solid black
+}
+

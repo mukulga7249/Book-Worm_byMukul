@@ -1,0 +1,21 @@
+.buyer-order-container{
+     background: #243b55;
+    height: 100vh;
+    display:flex;
+    flex-direction:column;
+    justify-content: space-between;
+}
+
+.main-table-container-buyer{
+    border-radius: 10px;
+    width: 70%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    align-self: center;
+    margin: auto;
+}
+
+.Table-title-buyer{
+    color: white;
+}
